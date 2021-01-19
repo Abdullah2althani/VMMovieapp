@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textViewSize">16sp</dimen>
+    <dimen name="TextViewMarginBotom">5dp</dimen>
+    <dimen name="ImageViewMarginBotom">10dp</dimen>
+    <dimen name="ImageViewHight">350dp</dimen>
+    <dimen name="LinearContainerMargin">5dp</dimen>
+    <dimen name="TextViewPadding">10dp</dimen>
+    <dimen name="ImageViewHeight">300dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="pading10">10dp</dimen>
+    <dimen name="size16">16sp</dimen>
+    <dimen name="marge15">15dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="size21">21sp</dimen>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "601638596490",
+    "firebase_url": "https://vm-movie-app.firebaseio.com",
+    "project_id": "vm-movie-app",
+    "storage_bucket": "vm-movie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601638596490:android:01e740009e5f6dcc462273",
+        "android_client_info": {
+          "package_name": "com.a250althani.vmmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601638596490-imcvanodcc14iatqb9jnfji0doq54699.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a250althani.vmmovieapp",
+            "certificate_hash": "3889e6012f24d52110414a7e79fdc10502d903cb"
+          }
+        },
+        {
+          "client_id": "601638596490-ppp1ahqjhbfttajmkggkd92315qgu4n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6CsXnGkiMZ0nOIFa__FIXWAqtI_ArVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601638596490-ppp1ahqjhbfttajmkggkd92315qgu4n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
